@@ -1,0 +1,14 @@
+# Build output
+neural_net
+
+# Dataset (download with: make data)
+data/
+
+# Predictions written by the program
+train_predictions.csv
+test_predictions.csv
+
+# Editor and OS files
+.vscode/
+.DS_Store
+__pycache__/
