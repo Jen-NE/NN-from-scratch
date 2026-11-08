@@ -31,8 +31,6 @@ momentum and Adam; Adam is used).
 | Test (10,000 images)     |   90.00% |
 | Training (60,000 images) |   94.67% |
 
-These come from the run I submitted in the course. Most mistakes are between similar
-tops, for example shirts predicted as T-shirts.
 
 ## Build and run
 
